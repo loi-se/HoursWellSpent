@@ -1,0 +1,22 @@
+C:\Users\Rol\Desktop\MonthCalendar Control\MonthCalendarControl\bin\Debug\MonthCalendarControl.dll
+C:\Users\Rol\Desktop\MonthCalendar Control\MonthCalendarControl\bin\Debug\MonthCalendarControl.pdb
+C:\Users\Rol\Desktop\MonthCalendar Control\MonthCalendarControl\obj\Debug\CustomControls.MonthCalendar.resources
+C:\Users\Rol\Desktop\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.Properties.MonthCalendarResources.resources
+C:\Users\Rol\Desktop\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.csproj.GenerateResource.Cache
+C:\Users\Rol\Desktop\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.dll
+C:\Users\Rol\Desktop\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.pdb
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\bin\Debug\MonthCalendarControl.dll
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\bin\Debug\MonthCalendarControl.pdb
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\CustomControls.MonthCalendar.resources
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.Properties.MonthCalendarResources.resources
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.csproj.GenerateResource.Cache
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.dll
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.pdb
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\bin\Debug\MonthCalendarControl.dll
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\bin\Debug\MonthCalendarControl.pdb
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\CustomControls.MonthCalendar.resources
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.Properties.MonthCalendarResources.resources
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.csproj.GenerateResource.Cache
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.dll
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\obj\Debug\MonthCalendarControl.pdb
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\MonthCalendar Control\MonthCalendarControl\bin\Debug\MonthCalendarControl.XML

@@ -1,0 +1,21 @@
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\CalendarDemo.exe
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\CalendarDemo.pdb
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.csprojResolveAssemblyReference.cache
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.DemoForm.resources
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.Properties.Resources.resources
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.csproj.GenerateResource.Cache
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.exe
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.pdb
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.exe
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.pdb
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\CalendarDemo.exe
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\CalendarDemo.pdb
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.csprojResolveAssemblyReference.cache
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.Properties.Resources.resources
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.csproj.GenerateResource.Cache
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\CalendarDemo.exe.config
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\CalendarDemo\obj\Debug\CalendarDemo.AgendaForm.resources

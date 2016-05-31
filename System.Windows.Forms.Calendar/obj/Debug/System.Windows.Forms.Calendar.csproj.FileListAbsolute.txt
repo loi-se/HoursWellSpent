@@ -1,0 +1,19 @@
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Desktop\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Documents\My software development projects\Forms Calendar\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Documents\My software development projects\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Rol\Documents\My software development projects\C#.net_VB.net\HoursWellSpent\HoursWellSpent\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.pdb
