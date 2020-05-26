@@ -9,9 +9,15 @@ The application can also be used as an Agenda. The application uses a Windows fo
 Features:
 
 -View statistics about your worked hours.
+
 -Register your worked hours in a Windows calendar.
+
 -View all your agenda items in a gridview with sortable columns.
+
 -Export your declaration report to Excell and PDF.
+
 -Agenda's are saved in XML format.
+
 -Export agenda view and statistical views as an Image.
+
 -Search function.
