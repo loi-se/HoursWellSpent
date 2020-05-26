@@ -7,6 +7,7 @@ The application can also be used as an Agenda. The application uses a Windows fo
 .Net Framework 4.0 needs to be installed on your computer to use this program.
 
 Features:
+
 -View statistics about your worked hours.
 -Register your worked hours in a Windows calendar.
 -View all your agenda items in a gridview with sortable columns.
